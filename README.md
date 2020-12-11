@@ -58,4 +58,5 @@ To run tests, run the following command:
 ``` 
 npm run test 
 ```
+Screenshot of all 4 tests passed: ![testrun-passed](https://user-images.githubusercontent.com/70370805/101961698-1b6f3f80-3bbf-11eb-88df-be64e880a7fc.jpg)
 
