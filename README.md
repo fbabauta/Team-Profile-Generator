@@ -29,5 +29,33 @@ Screenshot: ![profilequestions](https://user-images.githubusercontent.com/703708
 
 Team Profile Generator: ![Profile-generator-example](https://user-images.githubusercontent.com/70370805/101961249-2aa1bd80-3bbe-11eb-83d2-9e83a4ee8f7a.png)
 
+## Technologies
 
+&rightarrow;JavaScript
+
+&rightarrow;Node.js
+
+&rightarrow;Jest
+
+&rightarrow;npm
+
+&rightarrow;Inquirer.js
+
+&rightarrow;HTML/CSS
+
+&rightarrow;Bootstrap
+
+&rightarrow;Google Font
+
+## Installation
+To install necessary dependencies, run the following command: 
+``` 
+npm install 
+``` 
+
+## Tests
+To run tests, run the following command: 
+``` 
+npm run test 
+```
 
