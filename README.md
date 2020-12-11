@@ -70,5 +70,5 @@ Screenshot of all 4 tests passed:
 ## Finishes
 Clear [here](https://drive.google.com/file/d/1Jbrfq6vBOy8xpfAkQus-CXFzRJsw_2lB/view?usp=sharing) to view a live demo. 
 
-
+![](https://media.giphy.com/media/5a5nU1jtlpcvvewHLq/giphy-downsized-large.gif)
 
