@@ -27,6 +27,7 @@ This is a software engineering team generator command line application. The appl
 
 Screenshot: ![profilequestions](https://user-images.githubusercontent.com/70370805/101961095-d991c980-3bbd-11eb-927e-62978b08acc2.jpg)
 
+Team Profile Generator: ![Profile-generator-example](https://user-images.githubusercontent.com/70370805/101961249-2aa1bd80-3bbe-11eb-83d2-9e83a4ee8f7a.png)
 
 
 
