@@ -11,7 +11,7 @@ This is a software engineering team generator command line application. The appl
 * [Installation](#Installation)
 * [Tests](#Tests)
 * [Credits](#Credits)
-* [Finished Product](#finished-product)
+* [Finishes](#finishes)
 
 ## Usage
 
@@ -66,3 +66,9 @@ Screenshot of all 4 tests passed:
 ## Credits
 * [Inquirer.js](https://www.npmjs.com/package/inquirer)
 * [Bootstrap](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
+
+## Finishes
+Clear [here](https://drive.google.com/file/d/1Jbrfq6vBOy8xpfAkQus-CXFzRJsw_2lB/view?usp=sharing) to view a live demo. 
+
+
+
