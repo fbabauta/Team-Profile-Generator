@@ -1,0 +1,103 @@
+body, html  {
+    height: 162%;
+    margin: 0;
+    background: rgba(14, 110, 134, 0.301);
+    background-image: linear-gradient(360eg, rgba(41,70,81,1) 23%, rgba(28,39,43,1) 100%);
+    font-family: 'Nanum Gothic Coding', monospace;
+    font-weight: 300;
+}
+
+.content {
+    min-height: 100%;
+}
+
+.content-inside {
+    padding: 20px;
+    padding-bottom: 125px;
+}
+
+h1 {
+    font-family: 'Nanum Gothic Coding', monospace;
+    font-weight: 700;
+    font-size: 62px;
+}
+
+h2 {
+    font-family: 'Nanum Gothic Coding', monospace;
+}
+
+h5 {
+    font-weight: lighter;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: rgb(114, 112, 112);
+}
+
+
+
+.jumbotron {
+    background: none;
+    color: white;
+    border-radius: 0px;
+    padding-bottom: 10px;
+}
+
+a {
+    color: #68a2ee;
+}
+
+.card {
+    margin-bottom: 30px;
+    border: none;
+    min-height: 350px;
+}
+
+.card-header {
+    background-color: white;
+    color: rgb(41,70,81);
+    border-bottom: none;
+}
+
+i {
+    color: #68a2ee;
+}
+
+footer {
+    background-color: rgba(28,39,43,1);
+    color: white;
+    font-size: 16px;
+    height: 125px;
+    margin-top: -125px;
+}
+
+
+.footer-copyright {
+    font-size: 12px;
+}
+
+.here-btn {
+    color: #80b3f7;
+    border: 1px solid #80b3f7;
+    border-radius: 25px;
+    padding: 10px 25px 10px 25px;
+    margin-left: 5px;
+    font-size: 12px;
+}
+
+.here-btn:hover {
+    background-color: #68a2ee;
+    color: white;
+    border: none;
+}
+
+
+.info-type {
+    font-weight: bold;
+}
+
+@media only screen and (min-width: 768px) {
+    body, html {
+        height: 125%;
+    }
+}
+
