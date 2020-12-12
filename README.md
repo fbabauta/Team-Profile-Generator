@@ -72,3 +72,8 @@ Clear [here](https://drive.google.com/file/d/1Jbrfq6vBOy8xpfAkQus-CXFzRJsw_2lB/v
 
 <a href="https://imgur.com/FpdD2Zq"><img src="https://i.imgur.com/FpdD2Zq.gif" title="source: imgur.com" /></a>
 
+## Questions 
+If you have any questions about the repo, feel free to contact me below:
+
+GitHub: [fbabauta](https://github.com/fbabauta) | Via Email: francine.babauta@outlook.com
+
