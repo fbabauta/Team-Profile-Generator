@@ -70,5 +70,5 @@ Screenshot of all 4 tests passed:
 ## Finishes
 Clear [here](https://drive.google.com/file/d/1Jbrfq6vBOy8xpfAkQus-CXFzRJsw_2lB/view?usp=sharing) to view a live demo. 
 
-![](https://media.giphy.com/media/117yVNc5fJvZfnsjl0/source.mp4)
+<a href="https://imgur.com/FpdD2Zq"><img src="https://i.imgur.com/FpdD2Zq.gif" title="source: imgur.com" /></a>
 
